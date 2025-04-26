@@ -16,7 +16,7 @@ Welcome to *Tic Tac Toe, a classic two-player console game built using **C++*! E
 
 | Game Start | Mid Game | Victory Screen |
 |------------|----------|----------------|
-| ![](https://raw.githubusercontent.com/DheerajMahapatra/Tic_Tac_Toe/main/UI/start.png) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Tic_Tac_Toe/main/UI/mid.png) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Tic_Tac_Toe/main/UI/win.png) |
+| ![](https://raw.githubusercontent.com/DheerajMahapatra/Tic_Tac_Toe/main/Tic_Tac_Toe-UI/start.png) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Tic_Tac_Toe/main/Tic_Tac_Toe-UI/mid.png) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Tic_Tac_Toe/main/Tic_Tac_Toe-UI/win.png) |
 
 ---
 
